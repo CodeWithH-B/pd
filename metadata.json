@@ -1,0 +1,6 @@
+{
+  "name": "PhotoCraft",
+  "description": "Professional layered image editing app with adjustment layers, filters, brush, vector tools, text, history, and exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
